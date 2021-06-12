@@ -33,7 +33,7 @@ desgin a frontend page that intract with the user for the aim to practice what i
 
 ### Links
 
-- Live Site URL: [https://tariqelb.github.io/Calculator-Project/](https://tariqelb.github.io/Calculator-Project/)
+- Live Site URL: [https://tariqelb.github.io/Calculator-Project/](https://tariqelb.github.io/Calculator_Project/)
 
 ## My process
 
